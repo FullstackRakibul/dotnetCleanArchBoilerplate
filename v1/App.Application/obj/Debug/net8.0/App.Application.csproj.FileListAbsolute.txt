@@ -1,0 +1,17 @@
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\bin\Debug\net8.0\App.Application.deps.json
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\bin\Debug\net8.0\App.Application.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\bin\Debug\net8.0\App.Application.pdb
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\bin\Debug\net8.0\App.Core.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\bin\Debug\net8.0\App.Infrastructure.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\bin\Debug\net8.0\App.Core.pdb
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\bin\Debug\net8.0\App.Infrastructure.pdb
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.csproj.AssemblyReference.cache
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.AssemblyInfoInputs.cache
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.AssemblyInfo.cs
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.csproj.CoreCompileInputs.cache
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.csproj.CopyComplete
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\refint\App.Application.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.pdb
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\ref\App.Application.dll
