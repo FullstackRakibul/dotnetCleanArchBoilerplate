@@ -9,3 +9,4 @@ E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Core\obj\Debug\net8.0\
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Core\obj\Debug\net8.0\refint\App.Core.dll
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Core\obj\Debug\net8.0\App.Core.pdb
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json

@@ -13,3 +13,6 @@ E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Infrastructure\obj\Deb
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Infrastructure\obj\Debug\net8.0\refint\App.Infrastructure.dll
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.pdb
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Infrastructure\obj\Debug\net8.0\ref\App.Infrastructure.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.sourcelink.json
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Infrastructure\bin\Debug\net8.0\App.Infrastructure.runtimeconfig.json
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Infrastructure\obj\Debug\net8.0\App.Infrastructure.genruntimeconfig.cache

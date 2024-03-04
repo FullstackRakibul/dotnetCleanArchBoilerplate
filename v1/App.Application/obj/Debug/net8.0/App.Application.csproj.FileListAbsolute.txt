@@ -15,3 +15,4 @@ E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\refint\App.Application.dll
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.pdb
 E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\ref\App.Application.dll
+E:\Rakibul hasan\alpha projects\HRM-supportApp-API\v1\App.Application\obj\Debug\net8.0\App.Application.sourcelink.json
